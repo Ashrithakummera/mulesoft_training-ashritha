@@ -6,9 +6,9 @@ con.cursor()
 
 #Insert values into table
 con.execute("INSERT INTO MoviesINFO VALUES('Endgame ','Tony stark        ','2020','Marval')")
-con.execute("INSERT INTO MoviesINFO VALUES('KGF 2    ','Yash       ','2022','Prashanth Neel')")
-con.execute("INSERT INTO MoviesINFO VALUES('RRR','NTR   ','2022','SSR')")
-con.execute("INSERT INTO MoviesINFO VALUES('KGF 1 ','Sri nidhi       ','2018','Prashanth Neel')")
+con.execute("INSERT INTO MoviesINFO VALUES('ABCD    ','PrabhuDeva       ','2018','Karan johar')")
+con.execute("INSERT INTO MoviesINFO VALUES('14 phere','kriti kharbanda  ','2021','Devanshu singh')")
+con.execute("INSERT INTO MoviesINFO VALUES('October ','varun dhvan       ','2018','sujjit sarkar')")
 print("Data added!")
 
 #commit changes
